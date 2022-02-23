@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![lilly.art](lilly.svg)](https://lilly.art/){: style="float: right"}
+
 # Nathan E. Lilly...
 ...is:
 - a Developer
 - a Designer
 - an Artist
 - a Dilettante
-
-[![lilly.art](lilly.svg)](https://lilly.art/)
 
 I'm a Philadelphia local using his artistic training to perform software developement for Fortune 100 companies.
 
