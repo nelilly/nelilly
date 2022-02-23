@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  img[src=lilly.svg] { float: right }
-</style>
+
+<div>
 [![lilly.art](lilly.svg)](https://lilly.art/)
+</div>
 
 # Nathan E. Lilly...
 ...is:
