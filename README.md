@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lilly.art](lilly.svg)](https://lilly.art/)
-
 # Nathan E. Lilly...
 ...is:
 - a Developer
@@ -24,6 +22,8 @@ Here are some ideas to get you started:
 - a Dilettante
 
 I'm a Philadelphia local using his artistic training to perform software developement for Fortune 100 companies.
+
+[![lilly.art](lilly.svg)](https://lilly.art/)
 
 ## Connect
 - [lilly.art](https://lilly.art/)
