@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+  img[src=lilly.svg] { float: right }
+</style>
 [![lilly.art](lilly.svg)](https://lilly.art/)
 
 # Nathan E. Lilly...
