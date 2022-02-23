@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://lilly.art/">
-  ![lilly.art](images/lilly.svg)
+  ![lilly.art](lilly.svg)
 </a>
 
 # Nathan E. Lilly...
