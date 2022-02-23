@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![lilly.art](lilly.svg)](https://lilly.art/){: style="float: right"}
+[![lilly.art](lilly.svg)](https://lilly.art/)
 
 # Nathan E. Lilly...
 ...is:
