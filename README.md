@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-[![lilly.art](lilly.svg)](https://lilly.art/)
-</div>
+<img style="float: right" src="lilly.svg" alt="" />
 
 # Nathan E. Lilly...
 ...is:
@@ -28,6 +26,7 @@ Here are some ideas to get you started:
 I'm a Philadelphia local using his artistic training to perform software developement for Fortune 100 companies.
 
 ## Connect
+- [lilly.art](https://lilly.art/)
 - [LinkedIn](https://linkedin.com/in/nelilly)
 - [Twitter](https://twitter.com/nelilly)
 - [CodePen](https://codepen.io/nelilly/)
