@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm a Philadelphia local using his artistic training to perform software developement for Fortune 100 companies.
 
-<!-- [![lilly.art](lilly.svg)](https://lilly.art/) -->
+[![lilly.art](lilly.svg)](https://lilly.art/)
 
 ## Connect
 - [lilly.art](https://lilly.art/)
